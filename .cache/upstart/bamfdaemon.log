@@ -1,0 +1,9 @@
+
+(bamfdaemon:1461): Gdk-WARNING **: bamfdaemon: Fatal IO error 0 (Success) on X server :0.
+
+
+** (bamfdaemon:1471): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-OzO4PrfuUp: Connection refused
+
+** (bamfdaemon:1471): CRITICAL **: Lost the name org.ayatana.bamf, another BAMF daemon is currently running
+
+** (bamfdaemon:1423): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-tQb3eAOPpd: Connection refused
